@@ -1,0 +1,3 @@
+
+bgg_db.csv
+dowloaded 6/4/21 from Kaggle:  https://www.kaggle.com/phizzuela/boardgamegeek2020
