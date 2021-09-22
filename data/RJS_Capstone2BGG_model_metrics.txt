@@ -1,0 +1,25 @@
+Lasso Regression on these columns:
+
+min_players
+max_players
+avg_time
+year
+age
+weight
+Category_average
+Mechanic_average
+
+Best Alpha:
+0.006152578677625733
+
+MSE lassoCV =  0.23941737999739016
+R^2 lassoCV =  0.49607291063396663
+
+Random Forest Regression on the same columns
+
+Best number of estimators:  7
+
+MSE =  0.24595148804866887
+R^2 =  0.48231988212818333
+
+All features standard scaled
